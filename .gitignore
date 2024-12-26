@@ -21,3 +21,4 @@ run.sh
 output-metadata.json
 /build.properties
 *.hprof
+*.log
