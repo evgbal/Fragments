@@ -20,7 +20,7 @@ class FragmentA : Fragment() {
         view.findViewById<Button>(R.id.button_open_fragment_aa).setOnClickListener {
             openFragmentAA()
         }
-        return view;
+        return view
     }
 
     private fun openFragmentAA() {
