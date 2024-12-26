@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Fragments</string>
+    <string name="open_activity_a_with_fragment_a">Open Activity A with Fragment A</string>
+    <string name="open_activity_b_with_fragment_b">Open Activity B with Fragment B</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Frgment B</string>
+    <string name="fragment_aa">Fragment AA</string>
+    <string name="open_fragmentaa">Open FragmentAA</string>
+    <string name="open_fragmentab">Open Fragment AB</string>
+    <string name="fragment_ab">Fragment AB</string>
+    <string name="send_color">Send Color</string>
+    <string name="open_fragmentbb">Open Fragment BB</string>
 </resources>
